@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:textColorSecondary">@color/color_text_normal</item>
+    </style>
+
+    <style name="ToolbarAppearance" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/color_toolbar_text_normal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_size_normal</item>
+        <item name="android:background">@color/color_toolbar_background</item>
+    </style>
+
+</resources>

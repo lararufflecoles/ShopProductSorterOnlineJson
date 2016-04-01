@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shop Product Sorter 2</string>
+
+    <string name="sort_alphabetically_az">Sort alphabetically (A to Z)</string>
+    <string name="sort_alphabetically_za">Sort alphabetically (Z to A)</string>
+    <string name="sort_ascending_order_price">Sort by price (low)</string>
+    <string name="sort_descending_order_price">Sort by price (high)</string>
+
+    <string name="price">%1$s%2$s</string>
+
+</resources>

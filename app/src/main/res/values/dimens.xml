@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_normal">18sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+
+    <dimen name="layout_margin_tiny">3dp</dimen>
+    <dimen name="layout_margin_smaller">10dp</dimen>
+    <dimen name="layout_margin_small">12dp</dimen>
+    <dimen name="layout_margin_normal">15dp</dimen>
+
+    <dimen name="padding_normal">10dp</dimen>
+
+</resources>

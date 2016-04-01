@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <!--Toolbar-->
+    <item
+        android:id="@+id/action_sort_alphabetically_az"
+        android:icon="@mipmap/ic_sort_by_alpha_az_white_24dp"
+        android:title="@string/sort_alphabetically_az"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_sort_alphabetically_za"
+        android:icon="@mipmap/ic_sort_by_alpha_za_white_24dp"
+        android:title="@string/sort_alphabetically_za"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_sort_ascending_order_price"
+        android:icon="@mipmap/ic_sort_ascending_white_24dp"
+        android:title="@string/sort_ascending_order_price"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_sort_descending_order_price"
+        android:icon="@mipmap/ic_sort_descending_white_24dp"
+        android:title="@string/sort_descending_order_price"
+        app:showAsAction="always" />
+</menu>

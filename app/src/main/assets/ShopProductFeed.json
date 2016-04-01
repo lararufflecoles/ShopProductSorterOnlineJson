@@ -1,0 +1,50 @@
+{
+  "currencySymbol": "£",
+
+  "products": [
+    {
+      "name": "Tea Towel",
+      "price": 12.3
+    },
+    {
+      "name": "Mars Bar",
+      "price": 0.99
+    },
+    {
+      "name": "Skateboard",
+      "price": 99.0
+    },
+    {
+      "name": "Computer",
+      "price": 499.95
+    },
+    {
+      "name": "Persian Rug",
+      "price": 4999.99
+    },
+    {
+      "name": "Cheeseboard",
+      "price": 14.9
+    },
+    {
+      "name": "Imported Vase",
+      "price": 20.12
+    },
+    {
+      "name": "Scooter",
+      "price": 30.35
+    },
+    {
+      "name": "Table",
+      "price": 100.0
+    },
+    {
+      "name": "Cat Litter Tray",
+      "price": 12.5
+    },
+    {
+      "name": "Cat Litter",
+      "price": 4.99
+    }
+  ]
+}
